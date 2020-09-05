@@ -10,7 +10,7 @@
 ## Imagens frontend WEB
 
 <p align="center" >
-<img src="./images/explore.PNG" alt="Tela de Explorer" width="360"/> <img src="./images/issue.PNG" alt="Tela de Issues" width="360"/>
+<img src="./images/explore.png" alt="Tela de Explorer" width="360"/> <img src="./images/issue.png" alt="Tela de Issues" width="360"/>
 </p>
 
 ## 🛠 Tecnologias
